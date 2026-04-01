@@ -121,10 +121,8 @@ wq2581-BME6938-2026-spring-project2-group1/
 
 | Name | Role |
 |---|---|
-| James Garner | Data preprocessing, EDA, documentation, report writing |
-| Pascual Jahuey | SEAttentionCNN architecture design, documentation, report writing |
-| Jai Raccioppi | EfficientNet-B0 transfer learning implementation, documentation, report writing |
-| Qing Wang | Pipeline integration, evaluation metrics, demo notebook, figure generation, report writing |
+| Jialu Liang | Data preprocessing, EDA, documentation, report writing |
+
 
 ## References
 
