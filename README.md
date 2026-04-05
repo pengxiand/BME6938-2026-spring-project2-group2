@@ -125,6 +125,10 @@ wq2581-BME6938-2026-spring-project2-group1/
 | Bryan Quiala Llera | Report: Abstract, introduction, literature review, discussion and limitations |
 | Frank, Ava D. | Coding, documentation, report writing |
 
+## Hipergator directory/path
+/blue/bme6938/jialu/BME6938-2026-spring-project2-group4/
+
+
 
 ## References
 
