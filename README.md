@@ -121,8 +121,9 @@ wq2581-BME6938-2026-spring-project2-group1/
 
 | Name | Role |
 |---|---|
-| Jialu Liang | Data preprocessing, EDA, documentation, report writing |
+| Jialu Liang | Data preprocessing, Coding, EDA, documentation, report writing |
 | Bryan Quiala Llera | Report: Abstract, introduction, literature review, discussion and limitations |
+| Jialu Liang | Coding, documentation, report writing |
 
 
 ## References
